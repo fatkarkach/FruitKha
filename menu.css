@@ -1,0 +1,37 @@
+.product-filters ul :hover
+{
+    background-color: #F28123;
+    color: white;
+
+}
+section
+{
+    margin-bottom: 150PX;
+}
+div.single-product-item
+{
+    box-shadow: 1px 2px 6px 5px #ffdab9;
+    border-radius: 5px; 
+}
+div.single-product-item:hover
+{
+   background-color: #ffdab9;
+   box-shadow: 1px 2px 6px 5px #ffdab9;
+    border-radius: 5px; 
+
+}
+div.product-image
+{
+   background-color: white;
+   box-shadow: 1px 2px 6px 5px #ffdab9;
+    border-radius: 5px; 
+
+}
+div.espace
+{
+    margin-top: 35px;
+
+}
+p.product-price{
+    text-decoration: line-through;
+}
